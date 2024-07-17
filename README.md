@@ -1,2 +1,2 @@
 # Notes
-Notes Repo
+Notes repo
